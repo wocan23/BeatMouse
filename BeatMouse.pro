@@ -25,12 +25,14 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
+        handler.cpp \
         main.cpp \
         mainwindow.cpp \
         myitem.cpp \
         myscene.cpp
 
 HEADERS += \
+        handler.h \
         mainwindow.h \
         myitem.h \
         myscene.h

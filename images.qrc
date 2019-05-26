@@ -4,8 +4,8 @@
         <file>pic/bg1.png</file>
     </qresource>
     <qresource prefix="/mouse">
-        <file>pic/beat.png</file>
         <file>pic/chui-up.png</file>
         <file>pic/chui.png</file>
+        <file>pic/beat.png</file>
     </qresource>
 </RCC>
